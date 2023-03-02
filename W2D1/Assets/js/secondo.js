@@ -1,0 +1,10 @@
+document.write('<p>output scritto da javascript</p>');
+var Pet='Pantera';
+console.log(Pet);
+document.write(Pet+  'scritto da javascript');
+var AnimaleGiungla=('Giraffa');
+console.log(AnimaleGiungla);
+var animaleDomestico=('Criceto');
+console.log(animaleDomestico);
+var animalesavana=('Leone');
+console.log(animalesavana);
